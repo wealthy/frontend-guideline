@@ -23,7 +23,7 @@
       }
       ```
 
-      And if you don't have state or refs, prefer normal functions (not arrow functions) over classes:
+      And if you don't have state or refs, prefer normal functions (not arrow functions) over classes. [`refer this`](https://stackoverflow.com/questions/37288950/why-does-the-airbnb-style-guide-say-that-relying-on-function-name-inference-is-d).
 
       ```jsx
       // bad
@@ -46,8 +46,8 @@
 
 ## Naming
 
-- **Extensions**: Use `.jsx` extension for React components.
-- **Filename**: Use PascalCase for filenames. E.g., `ReservationCard.jsx`.
+- **Extensions**: Use `.js` extension for React components.
+- **Filename**: Use PascalCase for filenames. E.g., `ReservationCard.js`.
 - **Reference Naming**: Use PascalCase for React components and camelCase for their instances.
 
   ```jsx
@@ -360,4 +360,3 @@
       baz="baz"
     />
     ```
-
