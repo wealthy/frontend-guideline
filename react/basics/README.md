@@ -1,4 +1,4 @@
-# Wealthy React Style Guide
+# React Style Guide
 
 ## Basic Rules
 
