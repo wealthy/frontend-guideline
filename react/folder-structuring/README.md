@@ -94,7 +94,7 @@ Also, please note that we use named exports in this folder. Take following examp
     export * from "./commonComponents";
   ```
 
-> In order to import these components, we use **absolute imports**.
+> In order to import these components, we use **absolute imports**. For example, `import {Button} from "js/components"`
 
 ## screens / pages
 
