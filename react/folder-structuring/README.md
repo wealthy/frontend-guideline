@@ -22,7 +22,7 @@ Lets go over each of them in detail in order to get a better understanding:-
 
 ### components
 
-Components folder contains **only** the components which are to be used across the screens(in case of mobile app) or pages(in case of web app).
+Components folder contains **only** the components which are to be used across the screens(in case of mobile app) or routes(in case of web app).
 
 The components folder is sub divided into following folders:-
 
@@ -36,6 +36,7 @@ The components folder is sub divided into following folders:-
 > - Text Input
 > - Spinner
 > - Slider
+
 - commonComponents
 > Contains the custom created components which are used across the entire application.
 >
