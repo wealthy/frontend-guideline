@@ -2,7 +2,7 @@
 
 We use react library for web app and react-native for cross platform mobile application. We maintain the same code structure across both the platforms to make things predictable and maintainable. This documentation is regarding the folder structure we follow or, in future plan to follow.
 
-We folder a **modular code structure**. To explain this, if a component is required only by its parent and by no other component, then we nest the component inside the parent and **not** put them along with common components.
+We follow a **modular code structure**. If a component is required only by its parent and by no other component, we nest the component inside the parent and **not** put them along with common components.
 
 ## Overview
 
